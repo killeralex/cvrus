@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600;700&family=Open+Sans&display=swap');
-
 * {
     scroll-behavior: smooth;
 }
@@ -152,7 +151,6 @@ hr {
 .main-menu-section-content {
     margin-top: 10px;
 }
-
 
 .grey-frame {
     background-color: lightgray;
