@@ -45,6 +45,10 @@ header nav ul li div:hover {
   color: #ffffff;
 }
 
+.align-justify {
+    text-align: justify;
+}
+
 .disabled:hover {
   background-color: white;
   color: #424242;
